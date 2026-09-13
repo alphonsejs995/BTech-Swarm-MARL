@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+swarm-rescue/mission_logs/*.json
+!swarm-rescue/mission_logs/.gitkeep

@@ -1,0 +1,9 @@
+fastmcp>=2.0.0
+langchain>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+langchain-mcp-adapters>=0.1.0
+google-generativeai>=0.8.0
+streamlit>=1.38.0
+pygame>=2.5.0
+python-dotenv>=1.0.0
