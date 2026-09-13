@@ -9,7 +9,7 @@
 
 <br>
 
-![Swarm Drone SAR Mission](assets/banner.jpg)
+![Swarm Drone SAR Mission](assets/simulation_playback.gif)
 
 
 Welcome to the **Swarm Disaster Agents** framework! This repository contains a fully functioning **Multi-Agent Reinforcement Learning (MARL)** environment designed for orchestrating autonomous drone swarms in post-disaster Search & Rescue (SAR) operations. 
@@ -117,4 +117,5 @@ python playback.py
 
 ---
 *Built for B.Tech Research in Multi-Agent Reinforcement Learning (MARL).*
+
 
