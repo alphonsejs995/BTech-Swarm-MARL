@@ -9,6 +9,9 @@
 
 <br>
 
+![Swarm Drone SAR Mission](assets/banner.jpg)
+
+
 Welcome to the **Swarm Disaster Agents** framework! This repository contains a fully functioning **Multi-Agent Reinforcement Learning (MARL)** environment designed for orchestrating autonomous drone swarms in post-disaster Search & Rescue (SAR) operations. 
 
 Powered by **Google's Gemini 3.6 Flash** and orchestrated via **LangChain** and the **Model Context Protocol (MCP)**, this simulation creates a self-healing, intelligent mesh network of drones that actively search for survivors, confirm thermal signatures, and deliver medical supplies.
@@ -114,3 +117,4 @@ python playback.py
 
 ---
 *Built for B.Tech Research in Multi-Agent Reinforcement Learning (MARL).*
+
